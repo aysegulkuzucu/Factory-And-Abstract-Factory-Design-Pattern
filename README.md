@@ -1,4 +1,5 @@
-Yazılım Tasarım Desenleri ve Mimarileri Dersi
+Software Design Patterns and Architectures 
 
-YazılımTasarımDesenleri paketinde bir örnek üzerinden gidilerek Factory ve Abstract Desenleri uygulanmıştır
-abstractFactoryOrnegi isimli paket Abstract Factory deseninin uygulandığı başka bir örneğe aittir.  
+Factory and Abstract Factory Design Patterns
+
+Review the project presentation :
